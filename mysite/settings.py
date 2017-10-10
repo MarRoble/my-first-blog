@@ -25,7 +25,7 @@ SECRET_KEY = 'fox(cl@ft!q&_t+jaey0eoto$)g!c8pd#%i+k%+)^7jy^5tluc'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<marroble>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'marroble.pythonanywhere.com']
 
 
 # Application definition
